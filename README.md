@@ -1,2 +1,2 @@
 # rental-services
-basic book rental service website
+basic rental service website
